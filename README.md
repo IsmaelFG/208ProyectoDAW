@@ -1,4 +1,4 @@
-# Proyecto DWESTema4
+# Proyecto DAW
 ## Autor
 Ismael Ferreras García
 ## Requisitos
@@ -7,9 +7,9 @@ Ismael Ferreras García
    -[PHP8.1]
    -[XDEBUG3.1.2]
 ##Descripcion
-Ejercicios tema 4 de la asignatura de despliegue de aplicaciones web
+Index Proyecto DAW
 
 ##Funcionalidad
 
 ##Entorno de desarrollo
-(http://daw208.isauces.local/208DWESProyectoTema4/indexProyectoTema4.html)
+(http://daw208.isauces.local)
