@@ -1,0 +1,5 @@
+DirectoryIndex index.php index.html
+Redirect 301 /instituto http://ieslossauces.centros.educa.jcyl.es/sitio/
+RewriteEngine on
+RewriteRule ^/DWES /208DWESProyectoDWES/indexProyectoDWES.html
+
